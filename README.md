@@ -5,4 +5,4 @@
 3. #### [Glassdoor - Machine Learning Interviews](https://www.glassdoor.com/Interview/machine-learning-interview-questions-SRCH_KO0,16.htm)
 4. #### [Reddit - Machine Learning Questions](https://www.reddit.com/r/MLQuestions/)
 5. #### [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
-6. #### [The Ultimate Guide to Acing Coding Interviews for Data Scientists]https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc()
+6. #### [The Ultimate Guide to Acing Coding Interviews for Data Scientists](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc)
